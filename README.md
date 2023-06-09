@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cation-cmd
-- 👀 I’m interested in cybersecurity 
+- 👀 I’m interested in cybersecurity, fullstack development and blockchain 
 - 🌱 I’m currently learning blue team operations
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me via email akingsley655@gmail.com
